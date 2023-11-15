@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>lab1</name>
+	<name>lab_2</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/animation.gif</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/animation.gif</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
